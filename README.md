@@ -6,11 +6,7 @@ Este repositório contém um projeto desenvolvido durante meu primeiro semestre 
 
 ✔ Representação de pontos em um sistema de coordenadas 2D
 
-✔ Cálculo de distância entre dois pontos
-
 ✔ Translação de pontos no eixo X e Y
-
-✔ Visualização gráfica opcional (matplotlib)
 
 Este projeto foi uma ótima introdução aos conceitos de programação estruturada, manipulação de dados e matemática aplicada à computação. 🚀
 
