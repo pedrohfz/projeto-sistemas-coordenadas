@@ -1,4 +1,4 @@
-# Sistema de Coordenadas 2D 📍 | Algoritmos e Programação
+# Sistema de Coordenadas 2D 📍
 
 Este repositório contém um projeto desenvolvido durante meu primeiro semestre na disciplina de Algoritmos e Programação. O projeto fez parte da N1 (primeira nota do semestre) e teve como objetivo a criação de um sistema de coordenadas 2D utilizando Python, permitindo a manipulação e visualização de pontos em um plano cartesiano.
 
